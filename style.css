@@ -1,0 +1,33 @@
+
+
+h1 {
+	margin-top: 3%;
+	font-family: "Lucida Bright";
+	text-align: center;
+	color: #AA80FF;
+}
+
+h2 {
+	font-family:"Lucinda Bright";
+	text-align: center;
+	color: #BB99FF;
+
+}
+
+
+p {
+	font-family: "Lucida Bright";
+	text-align: center;
+	font-size: 20px ;
+	margin-right:20%;
+	margin-left: 20%;
+
+}
+
+#pic{
+	background-color: #CCB3FF;
+	border: 3px dotted #FFFFFF;
+	text-align:center;
+
+}
+

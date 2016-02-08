@@ -1,0 +1,36 @@
+
+
+html
+{
+background-color: #E5CCF6;
+}
+
+body{	
+margin-left: 10%;
+margin-right: 10%;
+}
+
+h1 {
+	margin-top: 5%;
+	font-family: "Cambria";
+	text-align:center;
+	color: #9900FF;
+}
+
+h3 {
+	font-family:"Trebuchet MS";
+	color: #9966CC;
+
+}
+
+
+p {
+	font-family: "Lucida Bright";
+	font-size: 16px ;
+}
+
+ul{
+	font-family: "Lucida Bright";
+	font-size: 16px ;
+
+}
